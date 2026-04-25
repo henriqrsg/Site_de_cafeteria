@@ -30,7 +30,7 @@ Este projeto foi criado com o intuito de praticar:
 
 ## Destaques Técnicos
 
-- Uso de tags semânticas (`<header>`, `<section>`, `<footer>`)
+- Uso de tags semânticas (`<header>`, `<section>`, `<div>`)
 - Separação clara entre estrutura (HTML) e estilo (CSS)
 - Organização modular de arquivos
 - Layout pensado para boa legibilidade
