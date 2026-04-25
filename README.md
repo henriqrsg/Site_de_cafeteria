@@ -4,7 +4,7 @@ Projeto de um site simples para uma cafeteria, desenvolvido utilizando **HTML5**
 
 ## Preview
 
-<img width="1884" height="920" alt="image" src="https://github.com/user-attachments/assets/96c47f0c-3988-466a-a0ea-c5a5df4ac4a2" />
+<img width="1902" height="958" alt="Captura de tela 2026-04-25 173540" src="https://github.com/user-attachments/assets/4dfc2b98-6f21-4853-979f-fa348497ed54" />
 
 ## Objetivo
 
@@ -30,7 +30,7 @@ Este projeto foi criado com o intuito de praticar:
 
 ## Destaques Técnicos
 
-- Uso de tags semânticas (`<header>`, `<section>`, `<footer>`)
+- Uso de tags semânticas (`<header>`, `<section>`, `<div>`)
 - Separação clara entre estrutura (HTML) e estilo (CSS)
 - Organização modular de arquivos
 - Layout pensado para boa legibilidade
